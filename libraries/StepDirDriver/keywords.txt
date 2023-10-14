@@ -1,0 +1,8 @@
+StepDirDriver	KEYWORD1
+
+control	KEYWORD2
+step	KEYWORD2
+setMode	KEYWORD2
+setDivider	KEYWORD2
+readSteps	KEYWORD2
+
