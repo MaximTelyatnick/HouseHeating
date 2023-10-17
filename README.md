@@ -1,3 +1,5 @@
+[![Foo](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=flat-square)](https://github-com.translate.goog/MaximTelyatnick/HouseHeating?_x_tr_sl=ru&_x_tr_tl=en)  
+
 Arduino Sketch Folder
 =====================
 
@@ -23,13 +25,6 @@ Libraries
 ---------
 * `arduino/libraries/U8glib` library for lcd display
 * `arduino/libraries/Keypad` library for matrix keyboard
-* `arduino/libraries/Adafruit_BMP085` BMP085 Barometer/Thermometer library from Adafruit
-* `arduino/libraries/Adafruit_GFX` 1.8 Color TFT Graphics library from Adafruit
-* `arduino/libraries/Adafruit_GPS` Ultimate GPS Shield library from Adafruit
-* `arduino/libraries/Adafruit_ST7735` 1.8 Color TFT Driver library from Adafruit
-* `arduino/libraries/ADXL345` ADXL345 Accelerometer library
-* `arduino/libraries/MAX6675` Thermocouple library
-* `arduino/libraries/RTClib` DS1307 real time clock library
-* `arduino/libraries/SD` SD card library from Adafruit
-* `arduino/libraries/TinyGPS` Generic Serial GPS library
-* `arduino/libraries/PID_v1` PID library (Error Calc)
+* `arduino/libraries/DallasTemperature`  Thermometer library for DS18B20 (https://playground.arduino.cc/Code/Timer1/)
+* `arduino/libraries/TimerOne` Library for multi-threaded processing (https://playground.arduino.cc/Code/Timer1/)
+* `arduino/libraries/PWMrelay` Ultimate GPS Shield library from Adafruit (https://github.com/GyverLibs/PWMrelay)
