@@ -4,16 +4,15 @@ Arduino Sketch Folder
 =====================
 Принципова схема
 --------
-Деталі
+Детали
 --------
 * `arduino/flight_telemetry` Flight Telemetry for Project SAPHE
-  * Arduino MEGA 2560
-  * [Sparkfun] (http://www.sparkfun.com/products/9694) BMP085 Barometric Pressure / Temperature / Altitude sensor
-  * [Adafruit] (http://www.adafruit.com/products/243) Datalogger Shield
-  * [Adafruit] (https://www.adafruit.com/products/757) logic level converter
-  * [Adafruit] (https://www.adafruit.com/products/372) 10k thermistor
-  * [Adafruit] (https://www.adafruit.com/products/746) Ultimate GPS (high altitude?)
-  * [Adafruit] (https://www.adafruit.com/products/358) 1.8" tft lcd
+  * `Arduino Mega 2560 Rev3` [LINK] (https://arduino.ua/ru/prod243-arduino-mega-2560-rev3) Плата управления
+  * `LCD 2004 I2C` [LINK](https://arduino.ua/ru/prod1932-lcd-2004-i2c-simvolnii-displei-20x4-jeltii) Экран для отображения информации
+  * `DS18B20` [LINK]([http://www.adafruit.com/products/243](https://arduino.ua/ru/prod414-temperatyrnii-datchik-vodonepronicaemii-ds18b20)) Водонипроницаемый датчик температуры
+  * `8-ми канальный модуль твердотельного реле 5В 2А` [LINK]([https://www.adafruit.com/products/757](https://arduino.ua/ru/prod1415-8-mi-kanalnii-modyl-tverdotelnogo-rele-5v-2a-low-level)) logic level converter
+  * `Клавиатура матричная 4х4` [LINK](https://arduino.ua/ru/prod316-klaviatyra-matrichnaya-4h4) 10k thermistor
+  * `Подстроечный резистор 3296W (1 кОм)` [LINK](https://arduino.ua/ru/prod5553-podstroechnii-rezistor-3296w-1-kom-1sht) Ultimate GPS (high altitude?)
 
 * `arduino/reflow_oven` Solder reflow oven controller
 	* [Black and Decker] (http://www.amazon.com/Black-Decker-FC300-Infrawave-Oven/dp/B001AX8F4Y/ref=sr_1_2?ie=UTF8&qid=1336673199&sr=8-2) Infrawave Oven
