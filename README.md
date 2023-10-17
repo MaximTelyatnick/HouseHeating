@@ -1,9 +1,9 @@
-[![Foo](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=flat-square)](https://github-com.translate.goog/MaximTelyatnick/HouseHeating?_x_tr_sl=ru&_x_tr_tl=en)  
+[![Foo](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=flat-square)](https://github-com.translate.goog/MaximTelyatnick/HouseHeating?_x_tr_sl=ua&_x_tr_tl=en)  
 
 Arduino Sketch Folder
 =====================
 
-Sketches
+Скетч
 --------
 * `arduino/flight_telemetry` Flight Telemetry for Project SAPHE
   * Arduino MEGA 2560
@@ -21,7 +21,7 @@ Sketches
 	* [Sparkfun] (http://www.sparkfun.com/products/709) 16x2 LCD (HD44780 chipset)
 
 
-Libraries
+Бібліотеки
 ---------
 * `arduino/libraries/U8glib` library for lcd display
 * `arduino/libraries/Keypad` library for matrix keyboard
