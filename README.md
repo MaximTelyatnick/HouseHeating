@@ -27,5 +27,5 @@ Arduino Sketch Folder
 * `arduino/libraries/U8glib` library for lcd display
 * `arduino/libraries/Keypad` library for matrix keyboard
 * `arduino/libraries/DallasTemperature`  Thermometer library for DS18B20 (https://playground.arduino.cc/Code/Timer1/)
-* `arduino/libraries/TimerOne` Library for multi-threaded processing (https://playground.arduino.cc/Code/Timer1/)
+* `[arduino/libraries/TimerOne](https://playground.arduino.cc/Code/Timer1/)` Library for multi-threaded processing 
 * `arduino/libraries/PWMrelay` Ultimate GPS Shield library from Adafruit (https://github.com/GyverLibs/PWMrelay)
