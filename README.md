@@ -22,11 +22,10 @@ Arduino Sketch Folder
 	* [Sparkfun] (http://www.sparkfun.com/products/709) 16x2 LCD (HD44780 chipset)
 
 
-Бібліотеки
+Библиотеки
 ---------
-* `arduino/libraries/U8glib` library for lcd display
-* `arduino/libraries/Keypad` library for matrix keyboard
-`* [Firebird](http://www.firebirdsql.org/)`
-* `arduino/libraries/DallasTemperature`  Thermometer library for DS18B20 (https://playground.arduino.cc/Code/Timer1/)
-`*[arduino/libraries/TimerOne](https://playground.arduino.cc/Code/Timer1/)` Library for multi-threaded processing 
-* `arduino/libraries/PWMrelay` Ultimate GPS Shield library from Adafruit (https://github.com/GyverLibs/PWMrelay)
+* `arduino/libraries/U8glib` [LINK](https://www.arduino.cc/reference/en/libraries/u8glib/) Библиотека для работы с LCD дисплеем (в нашем варианте по шине I2C)
+* `arduino/libraries/Keypad`[LINK](https://playground.arduino.cc/Code/Keypad/) Библиотека для упрощения работы с матричной клавиатурой
+* `arduino/libraries/DallasTemperature`[LINK](https://playground.arduino.cc/Code/Timer1/) Библиотека для измерения температуры при помощи датчика DS18B20 
+* `arduino/libraries/TimerOne`[LINK](https://playground.arduino.cc/Code/Timer1/) Библиотека для реализации многопоточности
+* `arduino/libraries/PWMrelay` [LINK](https://github.com/GyverLibs/PWMrelay) Библиотека для управления нагрузкой на твердотельном реле 
