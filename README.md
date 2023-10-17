@@ -2,8 +2,9 @@
 
 Arduino Sketch Folder
 =====================
-
-Скетч
+Принципова схема
+--------
+Деталі
 --------
 * `arduino/flight_telemetry` Flight Telemetry for Project SAPHE
   * Arduino MEGA 2560
