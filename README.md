@@ -4,10 +4,7 @@
 
 Принципиальная схема
 --------
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 <div id="top"></div>
 <div align="center">
   <a href="https://github.com/MaximTelyatnick/HouseHeating">
@@ -16,6 +13,7 @@
 </div>
 <h3 align="center">Принципиальная схема</h1>
 <br> 
+
 | Элемент     | Описание |
 | ---      | ---       |
 | LED1 | `         |
