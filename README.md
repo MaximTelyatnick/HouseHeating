@@ -7,12 +7,12 @@
 
 Детали
 --------
-* `Arduino Mega 2560 Rev3` [LINK] (https://arduino.ua/ru/prod243-arduino-mega-2560-rev3) Плата управления
-* `LCD 2004 I2C` [LINK](https://arduino.ua/ru/prod1932-lcd-2004-i2c-simvolnii-displei-20x4-jeltii) Экран для отображения информации
-* `DS18B20` [LINK]([http://www.adafruit.com/products/243](https://arduino.ua/ru/prod414-temperatyrnii-datchik-vodonepronicaemii-ds18b20)) Водонипроницаемый датчик температуры
-* 8-ми канальный модуль твердотельного реле 5В 2А [LINK]([https://www.adafruit.com/products/757](https://arduino.ua/ru/prod1415-8-mi-kanalnii-modyl-tverdotelnogo-rele-5v-2a-low-level)) logic level converter
-* `Клавиатура матричная 4х4` [LINK](https://arduino.ua/ru/prod316-klaviatyra-matrichnaya-4h4) 10k thermistor
-* `Подстроечный резистор 3296W (1 кОм)` [LINK](https://arduino.ua/ru/prod5553-podstroechnii-rezistor-3296w-1-kom-1sht) Ultimate GPS (high altitude?)
+* Arduino Mega 2560 Rev3 [LINK](https://arduino.ua/ru/prod243-arduino-mega-2560-rev3) Плата управления
+* LCD 2004 I2C [LINK](https://arduino.ua/ru/prod1932-lcd-2004-i2c-simvolnii-displei-20x4-jeltii) Экран для отображения информации
+* DS18B20 [LINK](https://arduino.ua/ru/prod414-temperatyrnii-datchik-vodonepronicaemii-ds18b20) Водонипроницаемый датчик измерения температуры
+* 8-ми канальный модуль твердотельного реле 5В 2А [LINK]([https://www.adafruit.com/products/757](https://arduino.ua/ru/prod1415-8-mi-kanalnii-modyl-tverdotelnogo-rele-5v-2a-low-level)) Твердотельное реле для управления нагрузкой
+* Клавиатура матричная 4х4 [LINK](https://arduino.ua/ru/prod316-klaviatyra-matrichnaya-4h4) Клавиатура для ввода данных и управления системой
+* Подстроечный резистор 3296W (1 кОм) [LINK](https://arduino.ua/ru/prod5553-podstroechnii-rezistor-3296w-1-kom-1sht) Обвязка
 
 
 Библиотеки
