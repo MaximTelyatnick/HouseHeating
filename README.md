@@ -8,7 +8,7 @@
 <div id="top"></div>
 <div align="center">
   <a href="https://github.com/MaximTelyatnick/HouseHeating">
-    <img src="Data/chema.jpg" alt="Принципиальная схема" width="640" height="480">
+    <img src="docs/chema.jpg" alt="Принципиальная схема" width="640" height="480">
   </a>
 </div>
 <h3 align="center">Принципиальная схема</h1>
