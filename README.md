@@ -2,8 +2,34 @@
 [![Foo](https://img.shields.io/badge/README-UKRAINE-blue.svg?style=flat-square)](https://github-com.translate.goog/MaximTelyatnick/HouseHeating?_x_tr_sl=ru&_x_tr_tl=uk) 
 
 
-Принципова схема
+Принципиальная схема
 --------
+
+<div id="top"></div>
+<div align="center">
+  <a href="https://github.com/MaximTelyatnick/TechnicalProcessControlg">
+    <img src="Data/chema.jpg" alt="Принципиальная схема" width="640" height="480">
+  </a>
+</div>
+<h3 align="center">ПРинципиальная схема</h1>
+<br> 
+| Элемент     | Описание |
+| ---      | ---       |
+| LED1 | `         |
+| DS1    | \|        |
+| DS2 | `         |
+| DS3 | `         |
+| DS4 | `         |
+| KEY1 | `         |
+| R1 | `         |
+| R2 | `         |
+| CONTROLLER1 | `         |
+| REL1 | `         |
+| REL2 | `         |
+| REL3 | `         |
+| REL4 | `         |
+| REL5 | `         |
+| REL6 | `         |
 
 Детали
 --------
